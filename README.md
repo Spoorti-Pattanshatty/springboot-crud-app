@@ -56,6 +56,6 @@ src/main/resources
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/springboot-crud-app.git
+https://github.com/Spoorti-Pattanshatty/springboot-crud-app.git
 cd springboot-crud-app
 
